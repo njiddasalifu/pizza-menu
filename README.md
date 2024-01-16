@@ -1,5 +1,6 @@
 # Notes
 it's just so simple to run this locally and maybe add some functionalities or use it revise some js functions.
+This is a simple static page, review of some reactjs concepts, like statemanagement and all the like
 
 Steps
 
